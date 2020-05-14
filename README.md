@@ -30,13 +30,12 @@ To solve this environment, the agent has to get an average score of +13 across 1
 
 ### Dependencies
 
-Running the code in this repository requires a working Python 3.6 environment along with the packages *numpy*, *scipy*, *matplotlib*, *pytorch*, and *unityagents*.
+Running the code in this repository requires a working Python 3.6 environment along with the packages *numpy*, *scipy
+*, *matplotlib*, *pytorch*, and *unityagents*. One way to set up a proper environment is by following the
+ instructions provided [here](https://github.com/udacity/deep-reinforcement-learning#dependencies).
 
-Furthermore, the unity environment must be downloaded from a suitable link below.
-  - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
-  - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-  - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
-  - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip) 
+Furthermore, the unity environment must be downloaded. The path to the unpacked environment folder must be updated
+ accordingly in `Navigation_DDQN.ipynb`. Please refer to [this repository](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation#getting-started) for download links and instructions.
 
 ### Instructions
 
