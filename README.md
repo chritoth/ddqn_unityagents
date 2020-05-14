@@ -9,7 +9,7 @@
 In this project we train an agent to pick up yellow bananas that are scattered throughout a square world. The agent
  must learn to navigate in its environment to reach yellow bananas (reward of +1 each) while avoiding to collect
  blue bananas (reward of -1 each). To solve this problem we employ the [Double Deep Q-Learning](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPaper/12389) (DDQN) algorithm [1].
-We describe our solution [here](readme.md). 
+We describe our solution [here](report.pdf). 
 
 
 ![Trained Agent][image1]
